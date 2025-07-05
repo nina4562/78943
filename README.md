@@ -24,4 +24,4 @@
 
 此外，我们还提供影片评分系统与相关推荐模块，让你根据其他用户的观看行为发现更多精彩内容。页面加载快速，无广告干扰，为你提供极致流畅的观看体验。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/nina4562/78943 ）</span>
